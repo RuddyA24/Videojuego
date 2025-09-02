@@ -32,7 +32,6 @@ func update_animations():
 		else:
 			animated_Sprite.play(\"idle\")
 	
-	
 	#Ahora se van a controlar los giros con move_and_slide
 		#Si el jugador esta mirando a la derecha y se oprime izq
 		#Si el jugador esta mirando a la izq y se oprime derecha
